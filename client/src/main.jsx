@@ -8,7 +8,7 @@ import { store } from "./Redux/store/store";
 import { Provider as ReduxProvider } from "react-redux";
 import axios from "axios";
 
-axios.defaults.baseURL = "http://localhost:8080";
+axios.defaults.baseURL = "https://task-nhh0.onrender.com";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
