@@ -1,5 +1,4 @@
 # task
-# vowel_web Task
 
 It's a MERN Stack E-commerce web application with all the major functionalities
 
